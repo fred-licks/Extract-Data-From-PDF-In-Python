@@ -1,0 +1,9 @@
+app/static/oficios_gerados
+!app/static/oficios_gerados/sampe.txt
+venv/
+.venv/
+*.pyc
+build
+dist
+*.egg-info
+.~lock*
